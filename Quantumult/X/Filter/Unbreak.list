@@ -1,0 +1,13 @@
+# > Unbreak
+# >> General
+USER-AGENT,coffeecorp*,DIRECT
+# >> Firebase Cloud Messaging
+DOMAIN,mtalk.google.com,DIRECT
+DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
+# >> TencentVideo for macOS
+DOMAIN-SUFFIX,vd.l.qq.com,DIRECT
+# >> Strava
+DOMAIN,analytics.strava.com,DIRECT
+# >> Umeng
+DOMAIN,msg.umeng.com,DIRECT
+DOMAIN,msg.umengcloud.com,DIRECT
