@@ -405,7 +405,7 @@ URL-REGEX,^https?:\/\/.+\.58cdn\.com\.cn\/brandads\/
 
 # A
 # > Alibaba
-URL-REGEX,^https?:\/\/gw\.alicdn\.com\/.*\.jpg_(9\d{2}|\d{4}
+URL-REGEX,^https?:\/\/gw\.alicdn\.com\/.*\.jpg_(9\d{2}|\d{4})
 # >> 闲鱼
 URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.taobao\.idle\.home\.welcome\/
 # >> 飞猪
