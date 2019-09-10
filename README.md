@@ -6,7 +6,7 @@ macOS：[Surge](https://nssurge.com/) | [ClashX](https://github.com/yichengchen/
 
 Windows：[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)
 
-iOS：[Surge](https://itunes.apple.com/app/apple-store/id1329879957?mt=8) | [Quantumult](https://itunes.apple.com/app/apple-store/id1252015438?mt=8) | [Kitsunebi](https://itunes.apple.com/app/apple-store/id1446584073?mt=8) | [Shadowrocket](https://itunes.apple.com/app/apple-store/id932747118?mt=8) | [Pepi(ShadowRay)](https://itunes.apple.com/app/apple-store/id1283082051?mt=8) 
+iOS：[Surge](https://apps.apple.com/app/apple-store/id1442620678) | [Quantumult](https://apps.apple.com/app/apple-store/id1252015438) | [Shadowrocket](https://apps.apple.com/app/apple-store/id932747118) | [Kitsunebi](https://apps.apple.com/app/apple-store/id1446584073) | [Pepi(ShadowRay)](https://apps.apple.com/app/apple-store/id1283082051) 
 
 Android：[Kitsunebi](https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android&hl=zh)
 
@@ -30,7 +30,7 @@ Android：[Kitsunebi](https://play.google.com/store/apps/details?id=fun.kitsuneb
 - 拦截运营商劫持
 - 拦截臭名昭著的欺诈网站（如**思杰马克丁**伪造的一系列软件官网、MacKeeper等）
 - 拦截应用广告
-  ⚠️ 网页广告请使用 Safari 内容拦截器如 [ADGuard](https://itunes.apple.com/app/apple-store/id1047223162?mt=8) 或集成去广告功能浏览器
+  ⚠️ 网页广告请使用 Safari 内容拦截器如 [ADGuard](https://apps.apple.com/app/apple-store/id1047223162) 或集成去广告功能浏览器
 
 ### 回国版
 
@@ -84,15 +84,15 @@ Android：[Kitsunebi](https://play.google.com/store/apps/details?id=fun.kitsuneb
 
 
 
-### 关于 Surge Ruleset 和 Quantumult X Filter Remote 排序
+### 关于 Surge Ruleset 和 Quantumult X Filter Remote 说明
 
 **要求**排序如下：
 
 1. Unbreak.list - 用于修正 PROXY 和 REJECT 行为
 2. Advertising.list - 广告、行为分析、隐私追踪
 3. Hijacking.list - 劫持（运营商、臭名昭著的诈骗网站或恶意应用）
-4. ForeignMedia.list - 国际媒体流
-5. DomesticMedia.list - 国内媒体流（可不加）
+4. ForeignMedia.list - 国际流媒体
+5. DomesticMedia.list - 国内流媒体（可不加）
 6. Global.list - 国际网站/应用
 7. Apple.list - Apple 服务（可不加）
 9. China.list - 国内网站/应用
