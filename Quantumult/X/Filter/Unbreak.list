@@ -1,6 +1,7 @@
 # > Unbreak
 # >> General
 USER-AGENT,coffeecorp*,DIRECT
+DOMAIN,app.adjust.com,DIRECT
 # >> Firebase Cloud Messaging
 DOMAIN,mtalk.google.com,DIRECT
 DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
