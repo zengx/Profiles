@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,dingtalk.com
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,soku.com
@@ -83,6 +84,7 @@ DOMAIN-SUFFIX,71.am.com
 # > JD
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,jd.hk
+DOMAIN-SUFFIX,jdpay.com
 DOMAIN-SUFFIX,360buyimg.com
 # > Kingsoft
 DOMAIN-SUFFIX,iciba.com
