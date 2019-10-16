@@ -1,5 +1,5 @@
 ## 主理人说
-Folks 来自神机，除了增加了自用规则，其他没有任何变动。
+Folk 来自神机规则 https://github.com/ConnersHua/Profiles ，除了增加了毒奶自用规则，其他没有任何变动；
 
 ## 配置步骤参考
 Rules / 分流/去广告规则：Surge / Shadowrocket / Quantumult/ Quantumult X 及详细配置步骤教程（萌新小白版本）https://limbopro.xyz/archives/2561.html
