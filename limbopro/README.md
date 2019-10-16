@@ -16,7 +16,7 @@
 
  以上。
  
- ## 联系我们
-  电报频道 https://t.me/limboprossr 不失联；
-  电报机器人 http://t.me/limboprobot；
-  邮件 mailto:service.limbopro.xyz@gmail.com
+## 联系我们
+- 电报频道 https://t.me/limboprossr 不失联；
+- 电报机器人 http://t.me/limboprobot；
+- 邮件 mailto:service.limbopro.xyz@gmail.com
