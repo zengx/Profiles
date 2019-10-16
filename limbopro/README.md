@@ -5,10 +5,10 @@
 4. 后续会陆续增加其他机场域名；
  
  ## 分流规则
-  Quantumult:https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Quantumult.conf
-  Quantumult X:https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/QuantumultX.list
-  Shadowrocket:https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Shadowrocket.conf
-  Surge:https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Surge.list
+- Quantumult:https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Quantumult.conf
+- Quantumult X:https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/QuantumultX.list
+- Shadowrocket:https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Shadowrocket.conf
+- Surge:https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Surge.list
 
 ## 配置步骤参考
  Rules / 分流/去广告规则：Surge / Shadowrocket / Quantumult/ Quantumult X 及详细配置步骤教程（萌新小白版本）
