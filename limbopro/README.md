@@ -1,7 +1,10 @@
 对应 Github 库位置：https://github.com/limbopro/Profiles/tree/master/limbopro
 
 ## 主理人序
-有没有发现，现在的`机场域名`很快就会被墙了？或污染；对于机场主而言，令人头疼，换域名也是费钱的；新老用户很久不上官网，哪天想续费结果因此走丢了；哭！鉴于此，特别做了此分流规则，将机场域名加入代理列表；
+
+有没有发现，现在的`机场域名`很快就会被墙了？或污染；对于机场主而言，确实令人头疼，但不过都会准备备用域名（域名前缀不变，.com/.net/.pw/.asian..），同时也会设置CNAME记录以便旧域名跳转到新域名；
+
+之所以做本分流规则，更多的是在于`域名污染时`CNAME记录跳转新域名或许很难再实现，所以分流才会变得十分必要；
 
 ### 一键更新，不失联
 1. 本文件仅为`毒奶粉`特供；
@@ -14,7 +17,9 @@
 8. 想来，毒奶粉们在这方面应该是有所进步，不用我太操心了的；
  
  ## 毒奶特供の分流规则
- ### 10.16.2019 更新
+ ### 10.17.2019 更新
+ 经过一个小时的翻阅毒药测速记录，现已增加 70+ 域名记录；
+ 
 - Quantumult:https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Quantumult.conf
 - Quantumult X:https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/QuantumultX.list
 - Shadowrocket:https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Shadowrocket.conf
