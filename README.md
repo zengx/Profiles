@@ -1,17 +1,16 @@
 ## 主理人说
-Folk 来自神机规则 https://github.com/ConnersHua/Profiles ，除了增加了毒奶自用规则，其他没有任何变动；
+Folk 来自神机规则 https://github.com/ConnersHua/Profiles ，除了增加了毒奶专用分流规则，其他没有任何变动；
 
 ## 毒奶专用分流规则
-为了应对突发情况，例如机场域名被污染/墙而无法打开，在此我（提前）为各个机场写了分流规则（订阅即可使用）
+1. 为了应对突发情况，例如机场域名被污染/墙而无法打开，在此我（提前）为各个机场写了分流规则（订阅即可使用）
 
-已增加80+主流机场域名（17.10.2019）
+2. 已增加80+主流机场域名（17.10.2019）
 
-https://github.com/limbopro/Profiles/blob/master/limbopro/README.md
+3. https://github.com/limbopro/Profiles/blob/master/limbopro/README.md
 
-如需自定义添加分流规则，可参考：https://t.me/limboprossr/809
+4. 如需自定义添加分流规则，可参考：https://t.me/limboprossr/809
 
-无法FQ以及机场域名污染时的备用方案https://t.me/limboprossr/799
-
+5. 无法FQ以及机场域名污染时的备用方案https://t.me/limboprossr/799
 
 ## 配置步骤参考
 Rules / 分流/去广告规则：Surge / Shadowrocket / Quantumult/ Quantumult X 及详细配置步骤教程（萌新小白版本）https://limbopro.xyz/archives/2561.html
