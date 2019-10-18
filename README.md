@@ -17,6 +17,9 @@ Rules / 分流/去广告规则：Surge / Shadowrocket / Quantumult/ Quantumult X
 
 以上。
 
+
+--- 下面是源库说明
+
 ## 简介
 
 配置规则文件
