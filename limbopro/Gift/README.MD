@@ -45,7 +45,7 @@
 
 ### 5.Enjoy
 
-1. 进入`QuantumultX`，开启`Rewrite` & `MitM`，开启 QuantumultX；
+1. 进入`QuantumultX`，点击右下角`三菱`按钮，找到并开启`Rewrite` & `MitM`按钮，最后开启 QuantumultX；
 2. 完事！
 
 ### 6.试玩配置文件修改策略模式
