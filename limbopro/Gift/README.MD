@@ -9,11 +9,12 @@
 3. 找到`[server-remote]`；
 
 ### 下载预设配置文件
-0. 复制`https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/QuantumultX-limbopro.conf`；
+0. 复制`https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/QuantumultX4limbopro.conf`；
 1. 进入`QuantumultX`，点击右下角`三菱`按钮；
 2. 找到`配置文件`模块下`下载`，点击；
 3. 粘贴刚刚复制的配置链接，点击右上角`确定`按钮；
 4. 保存完毕，进入`QuantumultX`主界面，就可以看到配置好的策略图标了；
+5. 订阅机场的节点；并删除无用节点，配置节点！
 
 ### 重新配置证书
 1. 如果之前有配置证书，可进入 iOS 系统`设置`-` 通用`-`描述文件`-`已下载的描述文件`-选中，`移除描述文件`，输入密码...完成描述文件安装；
