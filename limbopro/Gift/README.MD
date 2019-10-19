@@ -6,7 +6,8 @@
 ### 备份你的订阅链接
 1. 进入`QuantumultX`，点击右下角`三菱`按钮；
 2. 找到`配置文件`模块下`编辑`，点击；
-3. 找到`[server-remote]`；
+3. 找到`[server-remote]`，下方就是你已经配置好的节点订阅链接；
+4. 复制，留作备用（不然等下又要一个个添加（如果持有机场多的话））；
 
 ### 下载预设配置文件
 0. 复制`https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/QuantumultX4limbopro.conf`；
