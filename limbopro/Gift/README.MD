@@ -60,9 +60,9 @@
 会的，或增加策略（概率很小），优化分流规则（只需更新分流订阅即可），~~优化图标~~；正常情况下，我个人认为，10个策略基本上已经足够；
 
 ## 鸣谢
-NobyDa https://github.com/NobyDa/Script 脚本支持
+NobyDa https://github.com/NobyDa/Script 脚本及去广告支持
 
-ConnersHua https://github.com/ConnersHua/Profiles 规则支持
+ConnersHua https://github.com/ConnersHua/Profiles 主流网站分流规则支持
 
 ## 联系主理人
 
