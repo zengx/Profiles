@@ -3,6 +3,11 @@
 此配置文件，相当于提前`预设策略`及其`策略图标`，可自用，下载即可使用，策略下的节点需后期自己选择；
 
 ## 使用方法
+### 备份你的订阅链接
+1. 进入`QuantumultX`，点击右下角`三菱`按钮；
+2. 找到`配置文件`模块下`编辑`，点击；
+3. 找到`[server-remote]`；
+
 ### 下载预设配置文件
 0. 复制`https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/QuantumultX-limbopro.conf`；
 1. 进入`QuantumultX`，点击右下角`三菱`按钮；
