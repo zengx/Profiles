@@ -7,8 +7,6 @@
 
 如下图；
 
-
-
 ![QX.jpg][1]
 
 ## 注意注意
@@ -71,7 +69,7 @@
 ### 是否还会更新
 会的，或增加策略（概率很小），优化分流规则（只需更新分流订阅即可），~~优化图标~~；正常情况下，我个人认为，10个策略基本上已经足够；
 
-### 想自定义图标或策略？
+### 想自定义图标或策略或新加去广告规则？
 参考：https://t.me/limboprossr/843
 
 ## 鸣谢
@@ -83,7 +81,5 @@ ConnersHua https://github.com/ConnersHua/Profiles 主流网站分流规则支持
 
 1. 关注频道 https://t.me/limboprossr 不失联；
 2. `毒奶粉`们（我管我的Fans）可联系 [TG机器人](https://limbopro.xyz/usr/uploads/2019/10/3453243330.png) 或发送 [邮件](https://limbopro.xyz/usr/uploads/2019/10/3453243330.png) 获取帮助；
-
-3. 或点击`本页面右下角`的聊天按钮联系；
 
   [1]: https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/QX.jpg
