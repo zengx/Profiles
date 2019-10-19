@@ -1,3 +1,5 @@
+库位置：https://github.com/limbopro/Profiles/tree/master/limbopro/Gift
+
 ## 主理人说
 ### 19.10.2019 更新
 此配置文件，相当于提前`预设策略`及其`策略图标`，可自用，下载即可使用，策略下的节点需后期自己选择；
