@@ -48,6 +48,10 @@
 1. 进入`QuantumultX`，开启`Rewrite` & `MitM`，开启 QuantumultX；
 2. 完事！
 
+### 6.试玩配置文件
+1. 进入`QuantumultX`，点击右下角`三菱`按钮；
+2. 找到`配置文件`模块下`编辑`，点击；
+3. 可以修改各个`策略`的`策略模式`；# available 为健康检查模式，round-robin 为负载均衡模式，static 为静态策略模式，可以通过把 available 改为 static 的方式以切换至静态策略模式，其他同理；
 
 ## FAQ
 ### 如何删除无用策略组
