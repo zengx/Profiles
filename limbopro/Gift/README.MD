@@ -2,6 +2,9 @@
 
 ## 主理人说
 ### 19.10.2019 更新
+
+![QX.jpg][1]
+
 此配置文件，相当于提前`预设策略`及其`策略图标`，可自用，下载即可使用，策略下的节点需后期自己选择；
 
 ## 使用方法
@@ -39,3 +42,5 @@
 2. `毒奶粉`们（我管我的Fans）可联系 [TG机器人](https://limbopro.xyz/usr/uploads/2019/10/3453243330.png) 或发送 [邮件](https://limbopro.xyz/usr/uploads/2019/10/3453243330.png) 获取帮助；
 
 3. 或点击`本页面右下角`的聊天按钮联系；
+
+  [1]: https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/QX.jpg
