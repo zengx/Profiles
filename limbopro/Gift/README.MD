@@ -94,10 +94,11 @@
 
 *文章如若打不开，请挂代理访问！
 
-## 鸣谢
+## 参考以及鸣谢
 NobyDa https://github.com/NobyDa/Script 脚本及去广告支持
-
 ConnersHua https://github.com/ConnersHua/Profiles 主流网站分流规则支持
+
+*如需额外脚本配置可以参考学习 NobyDa，分流规则配置可以参考学习 ConnersHua；
 
 ## 联系主理人
 
