@@ -109,6 +109,7 @@
 ## 参考以及鸣谢
 1. NobyDa https://github.com/NobyDa/Script 脚本及去广告支持
 2. ConnersHua https://github.com/ConnersHua/Profiles 主流网站分流规则支持
+3. Zure https://github.com/zealson/Zure 图标支持
 
 *如需额外脚本配置可以参考学习 NobyDa，分流规则配置可以参考学习 ConnersHua；
 
