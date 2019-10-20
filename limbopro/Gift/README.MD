@@ -89,8 +89,8 @@
 会的，或增加策略（概率很小），优化分流规则（只需更新分流订阅即可），~~优化图标~~；正常情况下，我个人认为，10个策略基本上已经足够；
 
 ### 想自定义图标或策略或新加去广告规则？
-参考：[QuantumultX 进阶教程：组策略&分流规则&自定义策略图标的进阶玩法参考（通俗规范教程）](https://t.me/limboprossr/843)
-参考：[iOS 使用 Surge/Quantumult/Shadowrocket /QuantumultX 解锁 TikTok 区域限制（免拔卡）10.10.2019](https://limbopro.xyz/archives/3629.html) 
+1. 参考：[QuantumultX 进阶教程：组策略&分流规则&自定义策略图标的进阶玩法参考（通俗规范教程）](https://t.me/limboprossr/843)
+2. 参考：[iOS 使用 Surge/Quantumult/Shadowrocket /QuantumultX 解锁 TikTok 区域限制（免拔卡）10.10.2019](https://limbopro.xyz/archives/3629.html) 
 
 *文章如若打不开，请挂代理访问！
 
