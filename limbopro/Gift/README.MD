@@ -77,7 +77,7 @@
 
 ### 5.Enjoy
 
-1. 进入`QuantumultX`，点击右下角`三菱`按钮，找到并开启`Rewrite` & `MitM`按钮（如果第4步骤配置证书省略，这个按钮无需开），最后开启 QuantumultX；
+1. 进入`QuantumultX`，点击右下角`三菱`按钮，找到并开启`Rewrite` & `MitM`按钮（如果第4步骤没有配置证书，这个按钮无需开），最后开启 QuantumultX；
 
 2. 完事！
 3. 享受无广告，带策略，带图标，带解锁！
