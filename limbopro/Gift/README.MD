@@ -80,7 +80,7 @@
 ### 关于名叫CN策略
 1. 进入`QuantumultX`，可以看到一个中国地图样式的策略，CN；
 2. 该策略没有绑定分流规则；
-3. 如果你在国内，可以任意在该策略下添加节点；
+3. 如果你在国内，可以在该策略下添加任意可用节点；
 4. 本意是留作出国时用回国节点的；
 5. 如果你在国外，可在分流模块订阅/订阅`https://raw.githubusercontent.com/limbopro/Profiles/master/Quantumult/BacktoCN.conf`；
 6. 策略偏好选择`CN`即可；
