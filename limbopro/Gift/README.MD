@@ -7,7 +7,7 @@
 
 本预配置文件目前适用于 QuantumultX Applestore 版版本为 v1.0.0-bulild120（点击`QuantumultX`右下角`三菱`按钮，拉到最底部即可看到版本号），目前`TF最新版本`更新说明：`限制 Rewrite-script-response-body 将自动跳过包含以下关键字的脚本，防止相关功能被滥用：renew、vip、paid、premium等；`  此更新及未来Applestore更新是否会对VSCO等VIP会员解锁有影响，暂不得而知；（20.10.2019更新说明）
 
-*目前应用商店最新版 v1.0.1-bulild130 版本经测试，新增vess协议支持，VSCO会员等解锁良好，可放心更新；13:00 21.10.2019
+*目前应用商店最新版 v1.0.1-bulild130 版本经测试，新增vess协议支持，VSCO会员解锁良好（其他解锁有待测试），~~可放心更新~~；13:00 21.10.2019
 
 *备份IPA参考 [仅需三步，使用iMazing 轻松下载（当前版本）/或安装IPA文件（旧版本）](  https://limbopro.xyz/archives/imazing.html)（需挂代理）
 
