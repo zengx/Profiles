@@ -1,6 +1,7 @@
 # Advertising
 # > General
 
+DOMAIN,analyticsreporting.googleapis.com,Google
 DOMAIN-KEYWORD,adservice,REJECT
 DOMAIN-KEYWORD,analytics,REJECT
 DOMAIN-KEYWORD,analysis,REJECT
