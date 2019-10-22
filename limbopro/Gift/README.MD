@@ -136,6 +136,7 @@ available 为`健康检查模式`（从该策略下的第一个节点往下检�
 1. 参考：[QuantumultX 进阶教程：组策略&分流规则&自定义策略图标的进阶玩法参考（通俗规范教程）](https://t.me/limboprossr/843)
 2. 参考：[iOS 使用 Surge/Quantumult/Shadowrocket /QuantumultX 解锁 TikTok 区域限制（免拔卡）10.10.2019](https://limbopro.xyz/archives/3629.html) 
 3. 毒奶自用图标：https://github.com/limbopro/Zure Folk 自 Zure；
+4. 毒奶自用分流规则：https://github.com/limbopro/Profiles/tree/master/Quantumult/X/Filter
 
 *文章如若打不开，请挂代理访问！
 
