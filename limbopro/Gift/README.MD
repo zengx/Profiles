@@ -1,8 +1,6 @@
 库位置：https://github.com/limbopro/Profiles/tree/master/limbopro/Gift
 
 ## 主理人说
-### 20.10.2019 更新
-
 ## 密切注意！！密切注意！！
 
 本预配置文件目前适用于 QuantumultX Applestore 版版本为 v1.0.0-bulild120（点击`QuantumultX`右下角`三菱`按钮，拉到最底部即可看到版本号），目前`TF最新版本`更新说明：`限制 Rewrite-script-response-body 将自动跳过包含以下关键字的脚本，防止相关功能被滥用：renew、vip、paid、premium等；`  此更新及未来Applestore更新是否会对VSCO等VIP会员解锁有影响，暂不得而知；（20.10.2019更新说明）
