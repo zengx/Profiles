@@ -120,10 +120,19 @@ available 为`健康检查模式`（从该策略下的第一个节点往下检�
 4. 相应调整节点/策略/即可
 
 ## FAQ
-### 如何删除无用策略组
+### 如何删除无用/不想用策略组
+0. 以 `Instagram` 策略举例说明；
 1. 进入`QuantumultX`，点击右下角`三菱`按钮；
-2. 找到`配置文件`模块下`编辑`，点击；
-3. 找到`[policy]`，找到要删除的`策略`，删除即可；
+2. 进入` 分流`-`订阅`，找到与之绑定的分流订阅，`..instagram.lis`，右滑选择禁用，或左滑`编辑`调整策略偏好为可用`策略`，例如`Proxy`；
+2. 再找到`配置文件`模块下`编辑`，点击；
+3. 找到`[policy]`，找到要删除的`策略`，在策略名前注释即可；
+
+[policy]
+
+;static=Instagram, PROXY, 健康检测, DIRECT, img-url=https://raw.githubusercontent.com/limbopro/Zure/master/IconSet/Instagram-little.png
+
+`;` 号为注释符号，也可以换成`#` 号
+
 4. 玩法参考：QuantumultX 进阶教程：[组策略&分流规则&自定义图标的进阶玩法](https://limbopro.xyz/archives/3846.html)  
 
 ### 关于名叫CN策略
