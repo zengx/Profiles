@@ -17,6 +17,12 @@ https://github.com/limbopro/Profiles/tree/master/limbopro/Gift
 ## 其他均未变
 且会一段时间从源库拉取更新（问题不大）
 
+## 后话
+
+如果你是第一次用 Github ，或许可以学下基础知识，以便更有效的使用 Github，GitHub 新手指南，从入门到放弃（5分钟教学，你也可以拥有自己的仓库）https://limbopro.xyz/archives/3856.html
+
+本站域名已于昨晚被墙，欢迎使用代理访问本站，参考视频设置规则以进行分流：https://t.me/limboprossr/809
+
 以上。
 
 ## 简介
