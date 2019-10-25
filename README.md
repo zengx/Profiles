@@ -1,5 +1,5 @@
 ## 主理人说
-Folk 来自神机规则 https://github.com/ConnersHua/Profiles ，除了增加了毒奶专用分流规则，其他没有任何变动；
+Folk 来自神机规则 https://github.com/ConnersHua/Profiles ，除了增加了毒奶专用分流规则，以及 Quantumultx 预配置文件，其他没有任何变动；
 
 ## 新增毒奶专用分流规则
 https://github.com/limbopro/Profiles/tree/master/limbopro
@@ -14,6 +14,8 @@ https://github.com/limbopro/Profiles/tree/master/limbopro/Gift
 
 1. 本预配置文件，相当于提前为QuantumultX预设策略（10个策略）及其策略图标，去广告规则，主流站点分流规则，以及无需拔卡看，Tiktok，解锁VSCO会员；务必遵循教程步骤前后顺序，以确保其可用性；
 
+## 其他均未变
+且会一段时间从源库拉取更新（问题不大）
 
 以上。
 
