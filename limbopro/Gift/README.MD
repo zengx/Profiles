@@ -136,7 +136,7 @@ available 为`健康检查模式`（从该策略下的第一个节点往下检�
 ```
 其中 `;` 符号为注释符号，也可以换成`#` 号
 
-5. 玩法参考：QuantumultX 进阶教程：[组策略&分流规则&自定义图标的进阶玩法](https://limbopro.xyz/archives/3846.html)  
+6. 玩法参考：QuantumultX 进阶教程：[组策略&分流规则&自定义图标的进阶玩法](https://limbopro.xyz/archives/3846.html)  
 
 ### 关于名叫CN策略
 1. 进入`QuantumultX`，可以看到一个中国地图样式的策略，CN；
