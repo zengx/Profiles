@@ -12,6 +12,13 @@
 *针对未来的更新是否应该立即更新，暂保留意见；
 ## 版本更新日志
 
+### 22:00 28.10.2019 更新
+*无更新 
+
+商店版已经更新到1.0.2版本，NobyDa `Rewrite`去广告脚本失效；
+
+如需解锁Tiktok，可单独参考设置：[iOS 使用 Surge/Quantumult/Shadowrocket /QuantumultX 解锁 TikTok 区域限制（免拔卡）10.10.2019](https://limbopro.xyz/archives/3629.html)  ；
+
 ### 10:00 28.10.2019 更新
 1. 增加 亚马逊/Hulu/HBO/Spotify等分流规则，默认走Proxy
 
