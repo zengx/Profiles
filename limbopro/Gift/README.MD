@@ -119,11 +119,12 @@
 
 
 ### 6.如何启用本地脚本
-### 仅需4步
 
 *为了应对Quantumlt X v1.0.1 及之后版本更新对远程脚本的限制；具体是指 v1.0.1-1.0.2  已不再支持远程下载JS脚本所以需要进行本地配置；（例如：https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js.conf）
 
 也就是说将NobyDa的脚本放到本地，以供`QuantumultX`进行引用；
+
+* 可以参考视频：https://t.me/limboprossr/921 配合以下步骤食用；
 
 1. 打开iOS 系统自带软件 `文件`，进入`我的iPhone`-找到`Quantumult X` 文件；
 2. 进入`Quantumult X`文件夹-再进入`Scripts`子文件夹，长按空白处选择`新建文件夹`；
