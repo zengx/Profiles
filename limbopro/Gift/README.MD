@@ -13,11 +13,11 @@
 ## 版本更新日志
 
 ### 22:00 28.10.2019 更新
-0. 为应对 QuantumultX 商店版 1.0.2 更新 预配置文件已内置 NoByDa 本地脚本 导入预配置文件即可用；
+0. 为应对 QuantumultX 商店版 1.0.2 更新；
 1. 更新预配置文件内置 Tiktok 解锁配置
 2. 更新内置 VSCO 解锁配置
 
-*商店版已经更新到`1.0.2`版本，NobyDa `Rewrite`去广告脚本订阅失效（已直接内置到预配置文件）；如果你已更新到`1.0.2`版本，可进入`Rewrite`模块引用内，删除`NobyDa`脚本；
+*商店版已经更新到`1.0.2`版本，NobyDa `Rewrite`去广告脚本订阅失效（~~已直接内置到预配置文件~~）；如果你已更新到`1.0.2`版本，可进入`Rewrite`模块引用内，删除`NobyDa`脚本；
 
 *如需解锁Tiktok，但不想下载预配置文件：可单独参考设置：[iOS 使用 Surge/Quantumult/Shadowrocket /QuantumultX 解锁 TikTok 区域限制（免拔卡）10.10.2019](https://limbopro.xyz/archives/3629.html)  ；
 
