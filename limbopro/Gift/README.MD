@@ -13,11 +13,12 @@
 ## 版本更新日志
 
 ### 14:00 31.10.2019 更新
+0. 建议优先使用该版本预配置文件；
 1. 专门为 `Working Copy` 定制的预配置文件 `https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/QuantumultX4limbopro_WC.conf`，
 
 2. 复制`预配置文件`链接`https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/QuantumultX4limbopro_WC.conf`，打开`Quantumult X`，点击右下角`三菱按钮`，找到`配置文件`模块，点击`下载`，粘贴`预配置文件`链接；点击右上角`确定按钮`；
 
-3.参考教程：Working Copy 配置教程：[Working Copy丨将Github仓库内容同步到手机文件（iOS）并配置 Quantumult X 本地脚本](https://limbopro.xyz/archives/workingcopy.html) 配置本地脚本资源；
+3. 参考教程：Working Copy 配置教程：[Working Copy丨将Github仓库内容同步到手机文件（iOS）并配置 Quantumult X 本地脚本](https://limbopro.xyz/archives/workingcopy.html) 配置本地脚本资源；
 
 4. 开玩；
 
@@ -56,14 +57,15 @@
 2. 去掉本地规则，为Instagram策略绑定可订阅的分流规则
 3. 为CN（回国策略）绑定可订阅的分流规则，默认走直连（Direct）；
 
+
 ## 教程步骤虽多，但足够清晰
 
-本预配置文件，相当于提前为QuantumultX`预设策略`（10个策略）及其`策略图标`，`去广告规则`，`主流站点`分流规则，以及无需拔卡看，`Tiktok`，解锁`VSCO`会员；务必遵循教程步骤前后顺序，以确保其可用性；
+本预配置文件，相当于提前为QuantumultX`预设策略`（~~10~~8个策略）及其`策略图标`，`去广告规则`，`主流站点`分流规则，以及无需拔卡看，`Tiktok`，解锁`VSCO`会员；务必遵循教程步骤前后顺序，以确保其可用性；
 
 **效果图参考** https://t.me/limboprossr/863
 
 
-## 注意注意
+## 备份
 *可备份配置文件，以防止后悔；
 
 1. 进入`QuantumultX`，点击右下角`三菱`按钮；
@@ -72,6 +74,9 @@
 
 # 预配置文件教程
 ## 本配置文件使用方法
+
+*本预配置文件链接为`https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/QuantumultX4limbopro.conf`，不能直接搭配`Working Cpoy` App 使用；
+
 ### 1.备份你的机场订阅链接
 0. **针对有多个机场订阅链接的小伙伴，这会是一个快捷备份方法**
 1. 进入`QuantumultX`，点击右下角`三菱`按钮；
@@ -118,7 +123,7 @@
 3. 享受无广告，带策略，带图标，带解锁！
 
 
-### 6.如何启用本地脚本
+### 6.如何引用本地脚本
 
 *为了应对Quantumlt X v1.0.1 及之后版本更新对远程脚本的限制；具体是指 v1.0.1-1.0.2  已不再支持远程下载JS脚本所以需要进行本地配置；（例如：https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js.conf）
 
