@@ -13,6 +13,12 @@
 
 ## 版本更新日志
 
+### 13:00 29.10.2019 更新
+
+1. 新增 `Working Copy` 对应版本的预配置文件；
+2. Working Copy丨将Github仓库内容同步到手机（iOS）并配置 Quantumult X 本地脚本，以应对 Quantumult X 1.0.2 版本更新 对远程脚本调用的限制
+3. https://github.com/limbopro/Profiles/tree/master/limbopro/Gift/WC
+
 ### 22:00 28.10.2019 更新
 1. 减少策略到8个，Twitter/Telegram/Google/Ins 默认走`健康检测`策略，可自行修改`策略偏好`；
 0. 为应对 QuantumultX 商店版 1.0.2 更新；
