@@ -5,6 +5,6 @@
 
 2. 复制`预配置文件`链接`https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/WC/QuantumultX4limbopro_WC.conf`，打开`Quantumult X`，点击右下角`三菱按钮`，找到`配置文件`模块，点击`下载`，粘贴`预配置文件`链接；点击右上角`确定按钮`；
 
-3. 参考教程：[Working Copy丨将Github仓库内容同步到手机（iOS）并配置 Quantumult X 本地脚本，以应对 Quantumult X 1.0.2 版本更新 对远程脚本调用的限制](https://limbopro.xyz/archives/workingcopy.html) 配置本地脚本资源；
+3. 参考教程：[Working Copy丨将Github仓库内容同步到手机（iOS）并配置 Quantumult X 本地脚本，以应对 Quantumult X 1.0.2 版本更新 对远程脚本调用的限制](https://limbopro.xyz/archives/workingcopy.html) 配置本地脚本资源；（ *只需看 Working Copy 设置部分即可）
 
 4. 开玩；
