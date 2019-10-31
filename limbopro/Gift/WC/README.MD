@@ -7,8 +7,6 @@
 
 3. 参考教程：[Working Copy丨将Github仓库内容同步到手机（iOS）并配置 Quantumult X 本地脚本，以应对 Quantumult X 1.0.2 版本更新 对远程脚本调用的限制](https://limbopro.xyz/archives/workingcopy.html) 配置本地脚本资源；（ *只需看 Working Copy 设置部分即可）
 
-4. 配置并信任证书，最后，进入 `Quantumult X` App，点击右下角`三菱按钮`，找到`Rewrite`模块，开启按钮，`MitM`模块，开启按钮；
-
-以上。（不会配置？参考：https://github.com/limbopro/Profiles/blob/master/limbopro/Gift/README.MD 中操作步骤：重新配置证书以使得Tiktok/Rewrite去广告/解锁VSCO实现 ）
+4. 配置并信任证书，最后，进入 `Quantumult X` App，点击右下角`三菱按钮`，找到`Rewrite`模块，开启按钮，`MitM`模块，开启按钮；（不会配置证书？参考：https://github.com/limbopro/Profiles/blob/master/limbopro/Gift/README.MD 中操作步骤：重新配置证书以使得Tiktok/Rewrite去广告/解锁VSCO实现 ）
 
 5. 开玩；
