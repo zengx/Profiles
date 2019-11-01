@@ -10,12 +10,12 @@
 3. 点击`QuantumultX`右下角`三菱`按钮，拉到最底部即可看到版本号，目前`TF最新版本`更新说明：`限制 Rewrite-script-response-body 将自动跳过包含以下关键字的脚本，防止相关功能被滥用：renew、vip、paid、premium等` ；未来更新是会对 `VSCO` / `Termius`[查看详情](https://limbopro.xyz/archives/4322.html) 等VIP会员解锁有影响；（01.11.2019更新说明）。
 
 ## 备份 iOS IPA 安装文件
-*务必备份 1.0.2 及之前版本（有哪个就备份哪个，未来的App版本更新可能将导致脚本完全不可用，甚至包括`本地脚本资源`）；
-*备份IPA参考 [仅需三步，使用iMazing 轻松下载（当前版本）/或安装IPA文件（旧版本）](  https://limbopro.xyz/archives/imazing.html)（需挂代理）
+- 务必备份 1.0.2 及之前版本（有哪个就备份哪个，未来的App版本更新可能将导致脚本完全不可用，甚至包括`本地脚本资源`）；
+- 备份IPA参考 [仅需三步，使用iMazing 轻松下载（当前版本）/或安装IPA文件（旧版本）](  https://limbopro.xyz/archives/imazing.html)（需挂代理）
 
 ~~*针对未来的更新是否应该立即更新，暂保留意见；~~ 
 
-# 版本更新日志
+# 预配置文件版本更新日志
 
 ### 13:00 29.10.2019 新增WC预配置文件
 
