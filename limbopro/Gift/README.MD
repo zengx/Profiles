@@ -98,15 +98,8 @@
 (?<=(carrier|account|sys)_region=)CN url 307 JP
 将JP修改成其他地区英文缩写即可，其他国家或地区代码。例如改成 HK，KR，TW，KP；
 
-## 5.Enjoy
 
-1. 进入`QuantumultX`，点击右下角`三菱`按钮，找到并开启`Rewrite` & `MitM`按钮（如果第4步骤没有配置证书，这个按钮无需开），最后开启 QuantumultX；
-
-2. 完事！
-3. 享受无广告，带策略，带图标，带解锁！
-
-
-## 6.如何引用本地脚本
+## 5.如何引用本地脚本
 
 *为了应对Quantumlt X v1.0.1 及之后版本更新对远程脚本的限制；具体是指 v1.0.1-1.0.2  已不再支持远程下载JS脚本所以需要进行本地配置；（例如：https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js.conf）
 
@@ -126,6 +119,13 @@
 9. 长按 `Script-master`，重命名为`Script` 即可；
 
 * 预配置文件内已经进行了调用，完美；
+
+## 6.Enjoy
+
+1. 进入`QuantumultX`，点击右下角`三菱`按钮，找到并开启`Rewrite` & `MitM`按钮（如果第4步骤没有配置证书，这个按钮无需开），最后开启 QuantumultX；
+
+2. 完事！
+3. 享受无广告，带策略，带图标，带解锁！
 
 # 玩法
 
