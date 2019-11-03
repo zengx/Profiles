@@ -25,7 +25,7 @@
 - Shadowrocket:https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Shadowrocket.conf
 - Surge:https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Surge.list
 
-## 分流配置步骤可参考
+## 如何配置，步骤可参考
 - 可参考：https://t.me/limboprossr/842 视频操作示范；
  
 - Rules / 分流/去广告规则：Surge / Shadowrocket / Quantumult/ Quantumult X 及详细配置步骤教程（萌新小白版本）
