@@ -113,7 +113,7 @@
 
 也就是说将NobyDa的脚本放到本地，以供`QuantumultX`进行引用；
 
-*  现在可以参考视频：https://t.me/limboprossr/921 配合以下步骤食用；
+0. 现在可以参考视频：https://t.me/limboprossr/921 并配合以下步骤食用；
 
 1. 打开iOS 系统自带软件 `文件`，进入`我的iPhone`-找到`Quantumult X` 文件；
 2. 进入`Quantumult X`文件夹-再进入`Scripts`子文件夹，长按空白处选择`新建文件夹`；
