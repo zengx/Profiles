@@ -59,7 +59,7 @@
 2. 找到`配置文件`模块下`导出`，点击，选择`存储到文件`；
 3. 备份完毕；
 
-# 预配置文件教程
+# 预配置文件使用教程
 ## 1.备份你的机场订阅链接
 0. **针对有多个机场订阅链接的小伙伴，这会是一个快捷备份方法**
 1. 进入`QuantumultX`，点击右下角`三菱`按钮；
@@ -99,13 +99,13 @@
 将JP修改成其他地区英文缩写即可，其他国家或地区代码。例如改成 HK，KR，TW，KP；
 
 
-## 5.如何引用本地脚本
+## 5.下载并引用本地脚本
 
-*为了应对Quantumlt X v1.0.1 及之后版本更新对远程脚本的限制；具体是指 v1.0.1-1.0.2  已不再支持远程下载JS脚本所以需要进行本地配置；（例如：https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js.conf）
+*为了应对Quantumlt X v1.0.1 及之后版本更新对远程脚本的限制；具体是指 v1.0.1-1.0.2  已不再支持远程下载JS脚本所以需要进行本地配置；（例如该Rewrite 脚本：https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js.conf）
 
 也就是说将NobyDa的脚本放到本地，以供`QuantumultX`进行引用；
 
-* 可以参考视频：https://t.me/limboprossr/921 配合以下步骤食用；
+*  现在可以参考视频：https://t.me/limboprossr/921 配合以下步骤食用；
 
 1. 打开iOS 系统自带软件 `文件`，进入`我的iPhone`-找到`Quantumult X` 文件；
 2. 进入`Quantumult X`文件夹-再进入`Scripts`子文件夹，长按空白处选择`新建文件夹`；
