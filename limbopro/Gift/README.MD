@@ -20,7 +20,7 @@
 ### 22:00 22.11.2019 1.0.3 版本更新
 *此更新仅针对 Quantumult X app 1.0.3 版本；已经阉割远程调用脚本（Scripts）的功能回归；此版本AppStore更新可以更新；但由于需要配置大量设备ID，多出不必要的操作步骤，主理人并不建议在 Quantumult X 1.0.3版本中 引用远程JS脚本资源，直接调用本地JS脚本资源反而更好；
 
-如实在想折腾：参考 [Working Copy丨将Github仓库内容同步到手机文件（iOS）并配置 Quantumult X 本地脚本（解锁VSCO/Termius等）](https://limbopro.xyz/archives/workingcopy.html#22.11.2019QX-1.0.3) 前半部分；
+如实在想折腾：参考 [Working Copy丨将Github仓库内容同步到手机文件（iOS）并配置 Quantumult X 本地脚本（解锁VSCO/Termius等）](https://limbopro.xyz/archives/workingcopy.html#22.11.2019QX-1.0.3) 22.11.2019 QX-1.0.3 部分，增加Quantumult X 1.0.3  引用远程脚本完整示例 ( 配置设备ID以及修改JS.conf )；
 
 ### 13:00 29.10.2019 新增WC预配置文件
 
