@@ -17,10 +17,6 @@
 
 # 预配置文件版本更新日志
 
-## 22:00 26.11.2019 WC版本预配置文件更新
-1. https://github.com/limbopro/Profiles/tree/master/limbopro/Gift/WC
-2. 本地/远程脚本均可用；
-
 ### 22:00 22.11.2019 1.0.3 版本更新
 *此更新仅针对 Quantumult X app 1.0.3 版本；已经阉割远程调用脚本（Scripts）的功能回归；如果你仍在使用本地脚本，更新QuantumultX到1.0.3 则不会受任何影响；
 
