@@ -16,7 +16,7 @@
 
 ### 操作步骤
 
-1. 同步NobyDa仓库到本地 https://github.com/limbopro/Script ；
+1. 使用`WorkingCopy`App 同步[仓库](https://github.com/limbopro/Script)到手机本地，[参考步骤](https://github.com/limbopro/Script)  ；
 
 2. 复制`预配置文件`链接`https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/WC/QuantumultX4limbopro_WC.conf`，打开`Quantumult X`，点击右下角`三菱按钮`，找到`配置文件`模块，点击`下载`，粘贴`预配置文件`链接；点击右上角`确定按钮`；
 
