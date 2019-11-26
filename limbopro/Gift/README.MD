@@ -12,7 +12,7 @@
 # 预配置文件版本更新日志
 ## App更新
 ### 22:00 22.11.2019 1.0.3 版本更新
-*此更新仅针对 Quantumult X app 1.0.3 版本；已经阉割远程调用脚本（Scripts）的功能回归；如果你仍在使用本地脚本，更新QuantumultX到1.0.3 则不会受任何影响；博主建议大家继续使用本地脚本；
+*此更新仅针对 Quantumult X app 1.0.3 版本；已经阉割远程调用脚本（Scripts）的功能回归；如果你仍在使用本地脚本，更新QuantumultX到1.0.3 则不会受任何影响；博主建议大家继续使用本地脚本；想折腾 Quantumult X app 1.0.3 版本远程调用脚本（Scripts）的可参考：https://github.com/limbopro/Script （依然需要配合`WorkingCopy`App食用，一次配置，再也不用担心脚本更新；）
 
 ## 预配置文件更新
 ### 13:00 29.10.2019 新增WC预配置文件
