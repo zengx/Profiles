@@ -24,7 +24,7 @@
 5. 如果你只订阅了一个机场，进入`QuantumultX`，点击右下角`三菱`按钮，找到`节点`模块，`引用（订阅）`处复制；
 6. 下载预配置文件后，找到`[server-remote]`，在下方粘贴刚刚你复制的`订阅链接`；
 
-### 具体操作步骤
+### 预配置文件使用具体操作步骤
 
 1. 使用`WorkingCopy`App 同步[仓库](https://github.com/limbopro/Script)到手机本地，[参考步骤](https://github.com/limbopro/Script)  ；
 
