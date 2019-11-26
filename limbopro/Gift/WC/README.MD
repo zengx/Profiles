@@ -1,7 +1,7 @@
 ### 22:00 27.11.2019 更新日志
 1. 本地，远程引用脚本均可用，畅快解锁各种VIP会员（VSCO/无需拔卡看Tiktok/WPS/Terimius/Rewrite去广告/等等）；
 
-2. 仓库新增加 unblockremote.js，以简化 Quantumult 1.0.3 配置设备ID流程，最终使得 [rewrite_remote] 远程引用脚本配置文件可用：(https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js.conf)；
+2. 仓库新增加 unblockremote.js，以简化 Quantumult 1.0.3 配置`设备ID`流程，最终使得 [rewrite_remote] 远程引用脚本配置文件可用：(https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js.conf) ；
 
 3. unblockremote.js 脚本内容最开始是在联萌群看见，原作者暂无出处，欢迎提醒更正。
 
