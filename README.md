@@ -12,7 +12,7 @@ https://github.com/limbopro/Profiles/tree/master/limbopro
 ## 新增Quantumultx 预配置文件
 https://github.com/limbopro/Profiles/tree/master/limbopro/Gift
 
-1. 本预配置文件，相当于提前为QuantumultX预设策略（10个策略）及其策略图标，去广告规则，主流站点分流规则，以及无需拔卡看，Tiktok，解锁VSCO会员；务必遵循教程步骤前后顺序，以确保其可用性；
+1. 本预配置文件，相当于提前为QuantumultX预设策略（8个策略）及其策略图标，Rewrite 去广告规则，主流机场站点分流规则，以及无需拔卡看，Tiktok，解锁VSCO会员，Terimius等；务必遵循教程步骤前后顺序，以确保其可用性；
 
 ## 其他均未变
 且会一段时间从源库拉取更新（问题不大）
