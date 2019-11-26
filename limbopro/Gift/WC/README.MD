@@ -11,8 +11,9 @@
 亲测教程有效；
 
 ### 14:00 31.10.2019 更新日志
-0. 建议优先使用该版本预配置文件；
-1. 专门为 `Working Copy` 定制的预配置文件 `https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/WC/QuantumultX4limbopro_WC.conf`（其实是修改了本地脚本资源的`引用路径`）；
+建议优先使用该版本预配置文件；
+
+专门为 `Working Copy` 定制的预配置文件 `https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/WC/QuantumultX4limbopro_WC.conf`（其实是修改了本地脚本资源的`引用路径`）；
 
 ## 备份你的机场订阅链接
 
