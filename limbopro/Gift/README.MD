@@ -1,26 +1,20 @@
 库位置：https://github.com/limbopro/Profiles/tree/master/limbopro/Gift
 
 # 主理人说
-## 密切注意！！密切注意！！
-### 适用版本说明
-1. 本预配置文件及教程目前仅适用于 1.0.2 及之前版本 
-2. 务必备份 1.0.2 及之前版本（有哪个就备份哪个）；(01.11.2019 更新)
-3. 点击`QuantumultX`右下角`三菱`按钮，拉到最底部即可看到版本号；`VSCO` / `Termius`解锁本地PRO[查看详情](https://limbopro.xyz/archives/4322.html) 或参考 [NobyDa](https://t.me/rules4limbopro/3) 说明；等VIP会员解锁有影响；（01.11.2019更新说明）。
 
-4. 未来版本更新是否会有所影响，暂且不知；
 
 ## 备份 iOS IPA 安装文件
-- 备份 1.0.2 及之前版本（有哪个就备份哪个）；
+- 备份 1.0.2/1.0.3 （有哪个就备份哪个）；
 - 备份IPA参考 [仅需三步，使用iMazing 轻松下载（当前版本）/或安装IPA文件（旧版本）](  https://limbopro.xyz/archives/imazing.html)（需挂代理）
 
 ~~*针对未来的更新是否应该立即更新，暂保留意见；~~ 
 
 # 预配置文件版本更新日志
-
+## App更新
 ### 22:00 22.11.2019 1.0.3 版本更新
 *此更新仅针对 Quantumult X app 1.0.3 版本；已经阉割远程调用脚本（Scripts）的功能回归；如果你仍在使用本地脚本，更新QuantumultX到1.0.3 则不会受任何影响；博主建议大家继续使用本地脚本；
 
-
+## 预配置文件更新
 ### 13:00 29.10.2019 新增WC预配置文件
 
 1. 新增 `Working Copy` 对应版本的预配置文件；
@@ -72,6 +66,10 @@
 **最终效果图参考** https://t.me/limboprossr/863
 
 # 预配置文件使用教程
+*注意 本教程中的预配置文件特指 `https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/QuantumultX4limbopro.conf`；如果你会使用`WorkingCopy`App，可参考：https://github.com/limbopro/Profiles/tree/master/limbopro/Gift/WC ，更方便；
+
+以下为教程详细步骤：
+
 ## 1.备份你的机场订阅链接
 0. **针对有多个机场订阅链接的小伙伴，这会是一个快捷备份方法**
 1. 进入`QuantumultX`，点击右下角`三菱`按钮；
