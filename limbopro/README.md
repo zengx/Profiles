@@ -2,15 +2,13 @@
 
 1. 机场专线（80+机场分流配置）：https://github.com/limbopro/Profiles/tree/master/limbopro 
 2. QuantumultX 预配置文件： https://github.com/limbopro/Profiles/tree/master/limbopro/Gift
-
-以上。
-
-下面为毒奶机场分流正式部分；
+3. 以上；
+4. 下面为毒奶机场分流正式部分；
 
 ## 主理人序
 > 有没有发现，现在的`机场域名`很快就会被墙了？或污染；对于机场主而言，确实令人头疼，但不过都会准备备用域名（在域名前缀不变的情况下，增加.com/.net/.pw/.asian/.cc/.xyz等顶级域名），同时也会设置CNAME记录以便旧域名（污染域名）跳转到新域名（未污染域名）；之所以做本分流规则，更多的是在于`域名污染时`CNAME记录跳转新域名或许很难再实现，所以分流才会变得十分必要；除此之外，也请大家务必关注相关机场的公告版/订阅频道，以及时收讯；机场群组-群组信息里一般也会涵盖最新域名信息；
 
-### 一键更新，不失联
+## 一键更新，不失联
 1. 本文件仅为`毒奶粉`特供；
 2. 为了及时`应对机场域名被污染`而不能正常打开的情况；
 3. 相应优先添加了`卡车`/`N3RO`/`极游`/`厘米云`/`X-air`/ 等机场域名 HOST-KEYWORD - PROXY；
@@ -28,6 +26,8 @@
 - Quantumult X:https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/QuantumultX.list
 - Shadowrocket:https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Shadowrocket.conf
 - Surge:https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Surge.list
+
+- 直接添加分流订阅即可，策略偏好选择`Proxy`；
 
 ## 如何配置毒奶特供の分流规则
 - 可参考：https://t.me/limboprossr/842 视频操作示范；
