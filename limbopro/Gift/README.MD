@@ -52,7 +52,7 @@
 **最终效果图参考** https://t.me/limboprossr/863
 
 # 预配置文件使用教程开始
-*注意 本教程中的预配置文件特指 `https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/QuantumultX4limbopro.conf`；如果你会使用`WorkingCopy`App，可参考：https://github.com/limbopro/Profiles/tree/master/limbopro/Gift/WC ，更方便；
+*注意 本教程中的预配置文件特指`原始版本`预配置文件： `https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/QuantumultX4limbopro.conf`；
 
 以下为教程详细步骤：
 
