@@ -11,19 +11,19 @@
 
 # 预配置文件说明
 
-1. 本预配置文件，相当于提前为QuantumultX`预设策略`（~~10~~8个策略）及其`策略图标`，`去广告规则`，`主流站点`分流规则，以及无需拔卡看，`Tiktok`，解锁`VSCO`会员；务必遵循教程步骤前后顺序，以确保其可用性；
+1. 本预配置文件，相当于提前为QuantumultX`预设策略`（8个策略）及其`策略图标`，`去广告规则`，`主流站点`分流规则，以及无需拔卡看，`Tiktok`，解锁`VSCO`会员；务必遵循教程步骤前后顺序，以确保其可用性；
 
-2. 如需解锁Tiktok，但不想下载预配置文件：可单独参考设置：[iOS 使用 Surge/Quantumult/Shadowrocket /QuantumultX 解锁 TikTok 区域限制（免拔卡）10.10.2019](https://limbopro.xyz/archives/3629.html)  ；
+2. 如需解锁Tiktok，但不想使用预配置文件：可单独参考设置：[iOS 使用 Surge/Quantumult/Shadowrocket /QuantumultX 解锁 TikTok 区域限制（免拔卡）10.10.2019](https://limbopro.xyz/archives/3629.html)  ；
 
 ## 预配置文件更新
-### 无解锁版本
-0. 附带原始版本中：`预设策略`（8个策略）及其`策略图标`，`去广告规则`，`主流站点`分流规则，~~以及无需拔卡看，`Tiktok`，解锁`VSCO`会员~~；
+### 无解锁VIP版本
+0. 附带原始版本中：`预设策略`（8个策略）及其`策略图标`，`去广告规则`，`主流站点`分流规则，以及无需拔卡看`Tiktok`，~~解锁`VSCO`会员配置~~；
 1. 如果你啥都不想解锁任何会员的VIP服务；
 2. https://github.com/limbopro/Profiles/tree/master/limbopro/Gift/Without
 3. 使用上面这个预配置；
 
 ### WorkingCopy 版本
-0. 附带原始版本中：`预设策略`（~~10~~8个策略）及其`策略图标`，`去广告规则`，`主流站点`分流规则，以及无需拔卡看，`Tiktok`，解锁`VSCO`会员；
+0. 附带原始版本中：`预设策略`（8个策略）及其`策略图标`，`去广告规则`，`主流站点`分流规则，以及无需拔卡看`Tiktok`，解锁`VSCO`会员配置；
 1. https://github.com/limbopro/Profiles/tree/master/limbopro/Gift/WC
 2. 会使用 `Working Copy` APP的小伙伴可以看上面这个链接；
 
