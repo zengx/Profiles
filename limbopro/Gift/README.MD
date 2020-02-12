@@ -97,9 +97,7 @@
 
 ## 5.下载并引用本地脚本
 
-*为了应对Quantumlt X v1.0.1 及之后版本更新对远程脚本的限制；具体是指 v1.0.1-1.0.2 已不再支持远程下载JS脚本所以需要进行本地配置；（例如该Rewrite 脚本：https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js.conf）
-
-也就是说将NobyDa的脚本放到本地，以供`QuantumultX`进行引用；
+*为了应对Quantumlt X v1.0.1 及之后版本更新对远程脚本的限制；具体是指 v1.0.1-1.0.5 已不再支持远程下载JS脚本所以需要进行本地配置；也就是说将NobyDa的脚本放到本地，以供`QuantumultX`进行引用，使得**解锁会员VIP的脚本**可用；
 
 0. 现在可以参考视频：https://t.me/limboprossr/921 并配合以下步骤食用；
 
