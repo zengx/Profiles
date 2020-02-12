@@ -11,22 +11,22 @@
 
 ## 预配置文件更新
 ### 无解锁版本
-0.附带原始版本中：`预设策略`（8个策略）及其`策略图标`，`去广告规则`，`主流站点`分流规则，~~以及无需拔卡看，`Tiktok`，解锁`VSCO`会员~~；
-1.如果你啥都不想解锁任何会员的VIP服务；
-2.https://github.com/limbopro/Profiles/tree/master/limbopro/Gift/Without
-3.使用上面这个预配置；
+0. 附带原始版本中：`预设策略`（8个策略）及其`策略图标`，`去广告规则`，`主流站点`分流规则，~~以及无需拔卡看，`Tiktok`，解锁`VSCO`会员~~；
+1. 如果你啥都不想解锁任何会员的VIP服务；
+2. https://github.com/limbopro/Profiles/tree/master/limbopro/Gift/Without
+3. 使用上面这个预配置；
 
 ### WorkingCopy 版本
-0.附带原始版本中：`预设策略`（~~10~~8个策略）及其`策略图标`，`去广告规则`，`主流站点`分流规则，以及无需拔卡看，`Tiktok`，解锁`VSCO`会员；
-1.https://github.com/limbopro/Profiles/tree/master/limbopro/Gift/WC
-2.会使用 `Working Copy` APP的小伙伴可以看上面这个链接；
+0. 附带原始版本中：`预设策略`（~~10~~8个策略）及其`策略图标`，`去广告规则`，`主流站点`分流规则，以及无需拔卡看，`Tiktok`，解锁`VSCO`会员；
+1. https://github.com/limbopro/Profiles/tree/master/limbopro/Gift/WC
+2. 会使用 `Working Copy` APP的小伙伴可以看上面这个链接；
 
 ### 原始版本
 1. 减少策略到8个，Twitter/Telegram/Google/Ins 默认走`健康检测`策略，可自行修改`策略偏好`；
-0. 为应对 QuantumultX 商店版 1.0.2 更新；
-1. 预配置文件内置了NobyDa 脚本；（预配置文件教程第6步有详细介绍）
-1. 更新预配置文件内置 Tiktok 解锁配置
-2. 更新内置 VSCO/Terimius/酷我音乐 解锁配置
+2. 为应对 QuantumultX 商店版 1.0.2 更新；
+3. 预配置文件内置了NobyDa 脚本；（预配置文件教程第6步有详细介绍）
+4. 更新预配置文件内置 Tiktok 解锁配置
+5. 更新内置 VSCO/Terimius/酷我音乐 解锁配置
 
 *如需解锁Tiktok，但不想下载预配置文件：可单独参考设置：[iOS 使用 Surge/Quantumult/Shadowrocket /QuantumultX 解锁 TikTok 区域限制（免拔卡）10.10.2019](https://limbopro.xyz/archives/3629.html)  ；
 
