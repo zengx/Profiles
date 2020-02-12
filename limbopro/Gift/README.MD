@@ -9,19 +9,19 @@
 
 ~~*针对未来的更新是否应该立即更新，暂保留意见；~~ 
 
-# 预配置文件版本更新日志
-## App更新
-### 22:00 22.11.2019 1.0.3 版本更新
-*此更新仅针对 Quantumult X app 1.0.3 版本；已经阉割远程调用脚本（Scripts）的功能回归；如果你仍在使用本地脚本，更新QuantumultX到1.0.3 则不会受任何影响；博主建议大家继续使用本地脚本；想折腾 Quantumult X app 1.0.3 版本远程调用脚本（Scripts）的可参考：https://github.com/limbopro/Script （依然需要配合`WorkingCopy`App食用，一次配置，再也不用担心脚本更新；）
-
 ## 预配置文件更新
-### 13:00 29.10.2019 新增WC预配置文件
+### 无解锁版本
+0.附带原始版本中：`预设策略`（8个策略）及其`策略图标`，`去广告规则`，`主流站点`分流规则，~~以及无需拔卡看，`Tiktok`，解锁`VSCO`会员~~；
+1.如果你啥都不想解锁任何会员的VIP服务；
+2.https://github.com/limbopro/Profiles/tree/master/limbopro/Gift/Without
+3.使用上面这个预配置；
 
-1. 新增 `Working Copy` 对应版本的预配置文件；
-2. Working Copy丨将Github仓库内容同步到手机（iOS）并配置 Quantumult X 本地脚本，以应对 Quantumult X 1.0.2 版本更新 对远程脚本调用的限制
-3. https://github.com/limbopro/Profiles/tree/master/limbopro/Gift/WC
+### WorkingCopy 版本
+0.附带原始版本中：`预设策略`（~~10~~8个策略）及其`策略图标`，`去广告规则`，`主流站点`分流规则，以及无需拔卡看，`Tiktok`，解锁`VSCO`会员；
+1.https://github.com/limbopro/Profiles/tree/master/limbopro/Gift/WC
+2.会使用 `Working Copy` APP的小伙伴可以看上面这个链接；
 
-### 22:00 28.10.2019 更新
+### 原始版本
 1. 减少策略到8个，Twitter/Telegram/Google/Ins 默认走`健康检测`策略，可自行修改`策略偏好`；
 0. 为应对 QuantumultX 商店版 1.0.2 更新；
 1. 预配置文件内置了NobyDa 脚本；（预配置文件教程第6步有详细介绍）
@@ -31,7 +31,7 @@
 *如需解锁Tiktok，但不想下载预配置文件：可单独参考设置：[iOS 使用 Surge/Quantumult/Shadowrocket /QuantumultX 解锁 TikTok 区域限制（免拔卡）10.10.2019](https://limbopro.xyz/archives/3629.html)  ；
 
 
-# 教程步骤虽多，但足够清晰
+# 预配置文件说明
 
 本预配置文件，相当于提前为QuantumultX`预设策略`（~~10~~8个策略）及其`策略图标`，`去广告规则`，`主流站点`分流规则，以及无需拔卡看，`Tiktok`，解锁`VSCO`会员；务必遵循教程步骤前后顺序，以确保其可用性；
 
@@ -99,7 +99,7 @@
 
 ## 5.下载并引用本地脚本
 
-*为了应对Quantumlt X v1.0.1 及之后版本更新对远程脚本的限制；具体是指 v1.0.1-1.0.2  已不再支持远程下载JS脚本所以需要进行本地配置；（例如该Rewrite 脚本：https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js.conf）
+*为了应对Quantumlt X v1.0.1 及之后版本更新对远程脚本的限制；具体是指 v1.0.1-1.0.2 已不再支持远程下载JS脚本所以需要进行本地配置；（例如该Rewrite 脚本：https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js.conf）
 
 也就是说将NobyDa的脚本放到本地，以供`QuantumultX`进行引用；
 
