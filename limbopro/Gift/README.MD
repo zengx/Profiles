@@ -28,24 +28,12 @@
 1. 更新预配置文件内置 Tiktok 解锁配置
 2. 更新内置 VSCO/Terimius/酷我音乐 解锁配置
 
-*商店版已经更新到`1.0.2`版本，NobyDa `Rewrite`去广告脚本订阅失效（~~已直接内置到预配置文件~~）；如果你已更新到`1.0.2`版本，可进入`Rewrite`模块引用内，删除`NobyDa`脚本；
-
 *如需解锁Tiktok，但不想下载预配置文件：可单独参考设置：[iOS 使用 Surge/Quantumult/Shadowrocket /QuantumultX 解锁 TikTok 区域限制（免拔卡）10.10.2019](https://limbopro.xyz/archives/3629.html)  ；
-
-### 10:00 28.10.2019 更新
-1. 增加 亚马逊/Hulu/HBO/Spotify等分流规则，默认走Proxy
-
-### 23:00 21.10.2019 更新
-1. 增加神机去广告规则订阅，右滑可使用；
-2. 分流订阅排序改变，使得去广告订阅在最前；
-3. 优化预配置文件注释说明，更方便自主修改；
 
 
 # 教程步骤虽多，但足够清晰
 
 本预配置文件，相当于提前为QuantumultX`预设策略`（~~10~~8个策略）及其`策略图标`，`去广告规则`，`主流站点`分流规则，以及无需拔卡看，`Tiktok`，解锁`VSCO`会员；务必遵循教程步骤前后顺序，以确保其可用性；
-
-
 
 ## 事前备份
 *可备份配置文件，以防止后悔；
@@ -65,7 +53,7 @@
 
 **最终效果图参考** https://t.me/limboprossr/863
 
-# 预配置文件使用教程
+# 预配置文件使用教程开始
 *注意 本教程中的预配置文件特指 `https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/QuantumultX4limbopro.conf`；如果你会使用`WorkingCopy`App，可参考：https://github.com/limbopro/Profiles/tree/master/limbopro/Gift/WC ，更方便；
 
 以下为教程详细步骤：
